@@ -6,7 +6,7 @@
 - 🔭: I'm currently working as a Product Manager and Data Scientist, integrating ML algorithms to ongoing dev.
 - 🌱: I'm currently learning to use AWS SageMaker for cloud model deployment. 🧠💻🤖
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈
-- 📄: I'm currently open for a new job opportunity, this is [my resume]([https://read.cv/0xabdulkhalid](https://www.linkedin.com/in/landac/overlay/1635523086810/single-media-viewer/?type=DOCUMENT&profileId=ACoAAC0cyj0BO2uDfSUrIfcJfDemHNKGtgB5QDo)). I'm also open for any feedback or suggestions!
+- 📄: This is [my resume](https://www.linkedin.com/in/landac/overlay/1635523086810/single-media-viewer/?type=DOCUMENT&profileId=ACoAAC0cyj0BO2uDfSUrIfcJfDemHNKGtgB5QDo). I'm open to feedback, suggestions and new opportunities.
 - ⚡: In my free time, I enjoy dancing, singing, and playing some guitar or piano. 
 
 

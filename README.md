@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/landac">Mariana Landa<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Welcome to my GitHub profile!<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me</h1>
 
@@ -39,7 +39,6 @@
   
 <Br>
 <h1>Thank You! </h1>
-<Br>
 
 ------
   

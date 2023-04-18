@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub profile!<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1>Welcome to my GitHub profile!<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me</h1>
 

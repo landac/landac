@@ -5,7 +5,7 @@
 - 🎓: I'm a Mathematician by education.
 - 🔭: I’m currently working as a Product Manager and Data Scientist, integrating ML algorithms to ongoing dev.
 - 🌱: I’m currently learning to use AWS SageMaker for cloud model deployment. 🧠💻🤖
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
+- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈
 - ⚡: In my free time, I enjoy dancing, singing, and playing some guitar or piano. 
 
 <Br>

@@ -32,14 +32,11 @@
 |![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
    
 <Br>
-<h1>🤣 A Little Joke</h1>
+<h1>Thank You! </h1>
 <Br>
   
 <img src="https://ih1.redbubble.net/image.471887531.0381/raf,750x1000,075,t,000000:44f0b734a5.u4.jpg"/>
   
-<Br>
-<h1>Thank You! </h1>
-
 ------
   
 Credit: [Aryagm](https://github.com/Aryagm)

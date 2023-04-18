@@ -2,7 +2,6 @@
 <Br>
 <h1>About Me</h1>
 
-- 😄:  Pronouns She/Her
 - 🎓: I'm a Mathematician by education.
 - 🔭: I’m currently working as a Product Manager and Data Scientist, integrating ML algorithms to ongoing dev.
 - 🌱: I’m currently learning to use AWS SageMaker for cloud model deployment. 🧠💻🤖

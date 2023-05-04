@@ -2,8 +2,8 @@
 <Br>
 <h1>About Me</h1>
 
-- 🎓: I'm a Mathematician by education.
-- 🔭: Product Manager and Data Scientist, currently working on developing ML algorithms to ongoing dev product.
+- 🎓: Mathematician by education.
+- 🔭: Product Manager & Data Scientist, currently working on developing ML algorithms for ongoing dev product.
 - 🌱: I'm currently learning to use AWS SageMaker for cloud model deployment. 🧠💻🤖
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈
 - 📄: This is [my resume](https://www.linkedin.com/in/landac/overlay/1635523086810/single-media-viewer/?type=DOCUMENT&profileId=ACoAAC0cyj0BO2uDfSUrIfcJfDemHNKGtgB5QDo). I'm open to feedback, suggestions and new opportunities.
